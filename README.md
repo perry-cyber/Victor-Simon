@@ -19,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 <div align="left">
@@ -67,7 +69,7 @@
 
 <div align="left">
   <h4 >Would like to learn:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="10" />
@@ -83,7 +85,7 @@
 
 <div align="centr">
   <h4>Let's connect here:</h4>
-  <a href="https://twitter.com/dreal_martins" target="_blank">
+  <a href="https://twitter.com/mperor" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   <a href="https://ng.linkedin.com/in/martins-aguegbodo-45446124b" target="_blank">
